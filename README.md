@@ -1,1 +1,1 @@
-# Hiba-hassoune-24011380
+CI18 Hiba Hassoune — préparation uniquement. Ouvrir projet_CI18.ipynb dans Google Colab. Importer un jeu de données réel WITS/OMC. Le guide interdit de coder l’analyse avant la séance. Les figures sont fictives.
